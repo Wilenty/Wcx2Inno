@@ -1,1 +1,1 @@
-# Wcx2Inno-use-any-WCX-plu-in-in-your-InnoSetup
+# Wcx2Inno use any WCX plug-in in your InnoSetup
