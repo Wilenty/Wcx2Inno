@@ -1,0 +1,1 @@
+# Wcx2Inno-use-any-WCX-plu-in-in-your-InnoSetup
